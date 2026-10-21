@@ -159,6 +159,14 @@ a:hover {
     border-bottom: 1px solid rgb(20, 110, 190);
 }
 
+a.nvidia {
+    color: #76b900;
+}
+
+a.nvidia:hover {
+    border-bottom-color: #76b900;
+}
+
 i {
     font-style: italic;
 }
